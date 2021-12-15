@@ -8,32 +8,29 @@
     <ul>
       <li>
         <i class="fa fa-user-circle-o fa-lg fa-fw"></i>
-        <a href="http://mywebsite.com" target="_blank">https://mywebsite.com</a>
+        <a href="https://www.puppygaming.co.uk" target="_blank">https://www.puppygaming.co.uk</a>
       </li>
       <li>
         <i class="fa fa-envelope-o fa-lg fa-fw"></i>
-        <a href="mailto:my@email.com" target="_blank">my@email.com</a>
+        <a href="mailto:puppygamingdev@gmail.com" target="_blank">puppygamingdev@gmail.com</a>
       </li>
       <li>
-        <i class="fa fa-linkedin fa-lg fa-fw" style="vertical-align: -5%;"></i>
-        <a href="https://www.linkedin.com/me" target="_blank">linkedin.com/me</a>
+        <i class="fa fa-youtube-play fa-lg fa-fw"></i>
+        <a href="https://www.youtube.com/channel/UCqUH4soOKdWsTBx6O81ERBg" target="_blank">YouTube</a>
       </li>
       <li>
         <i class="fa fa-github fa-lg fa-fw"></i>
-        <a href="https://github.com/me" target="_blank">github.com/me</a>
+        <a href="https://https://github.com/PuppyGamingDev" target="_blank">github.com/PuppyGamingDev</a>
       </li>
       <li>
-        <i class="fa fa-gamepad fa-lg fa-fw"></i>
-        <a href="https://myself.itch.io" target="_blank">myself.itch.io</a>
+        <i class="fa fa-play fa-lg fa-fw"></i>
+        <a href="https://play.google.com/store/apps/dev?id=8119669567775044777" target="_blank">Google Play Store</a>
       </li>
       <li>
-        <i class="fa fa-tumblr fa-lg fa-fw"></i>
-        <a href="https://myblog.tumblr.com" target="_blank">myblog.tumblr.com</a>
+        <i class="fa fa-commenting fa-lg fa-fw"></i>
+        <a href="https://discord.gg/pvP4C7dCC3" target="_blank">Discord</a>
       </li>
-      <li>
-        <i class="fa fa-steam fa-lg fa-fw"></i>
-        <a href="https://steamcommunity.com/id/me" target="_blank">steam.com/me</a>
-      </li>
+
     </ul>
 
   </div>
