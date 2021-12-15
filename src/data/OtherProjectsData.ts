@@ -1,7 +1,7 @@
 import ProjectData from '@/data/ProjectData.ts'
 
 export default [
-    new ProjectData("project-6", "BitFreakz Shootout", "img/projects/BitFreaks.png", `
+    new ProjectData("project-6", "BitFreakz Shootout", "img/projects/shootout.png", `
     <div class="paragraph">
       <strong>BitFreakz</strong> are a pixelated, bizarro duplicate of our universe living on Solana blockchain. They are a digital pieces of art, carefully put together pixel by pixel – that you can collect, trade and enjoy.
 
@@ -20,7 +20,7 @@ export default [
         </div>
 
         <div class="paragraph center">
-          <img class="pc-screenshot" src="img/projects/shootout.png" alt="Sultans Of Sing Screenshot" />
+          <img class="pc-screenshot" src="img/projects/BitFreaks.png" alt="BitFreakz Image" />
         </div>
     `, "#c10606", false, true),
     new ProjectData("project-7", "Drew Blood", "img/projects/project-7-icon.png", `
