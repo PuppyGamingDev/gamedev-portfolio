@@ -4,11 +4,11 @@
 
     <div class="paragraph">
       I'm <strong>Mike</strong>, the developer of Puppy Gaming.
+      <br />I have always had an interest in how games worked so it made sense to learn how games were developed.
+      <br />Currently learning C# development in Unity.
+      <br />I like to make little games when I get fun ideas.
       <br />
-      <br />
-      <br />
-      <br />
-      <br />Right now I'm trying to find inner peace after I've read some personal development books. I'm looking for a monk job so if you have any opportunity feel free to 
+      <br />Im currently only doing game development during my spare time along with my YouTube videos. If you are looking for support or for work on any of the assets I use please feel free to  
       <router-link to="/contact">contact me</router-link>.
       <br />
       <br />
