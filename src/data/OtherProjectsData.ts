@@ -23,32 +23,29 @@ export default [
           <img class="pc-screenshot" src="img/projects/shootout.png" alt="BitFreakz Image" />
         </div>
     `, "#c10606", false, true),
-    new ProjectData("project-7", "Drew Blood", "img/projects/project-7-icon.png", `
+    new ProjectData("project-7", "Dynamic Battles", "img/projects/dynamic.png", `
     <div class="paragraph">
-                <strong>Drew Blood</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-                <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@karolina-grabowska">Karolina Grabowska</a>.
+                <strong>Dynamic Battles</strong> was a team based multiplayer FPS created for the 'Dynamic' content creators community for the use of internal collaboration and fun. This was created on top of MFPS 2.0 from the Unity Asset Store.
             </div>
 
             <div class="paragraph">
               Main features :
               <ul>
-              <li>Some stuff</li>
-              <li>Some great stuff</li>
-              <li>More awesome stuff</li>
-              <li>And then some</li>
+              <li>Generic team based gun fights</li>
+              <li>Simple & fun maps</li>
+              <li>Clan and rankings systems</li>
+              <li>Class customization</li>
               </ul>
           </div>
 
             <div class="paragraph">
               <div class="notice">
-                You can download and try the app for free or purchase it directly from <a href="http://www.somewbsite.com/" target="_blank">Some website</a>
+                This game is no longer in use and the community has been disbanded.
               </div>
             </div>
 
             <div class="paragraph center">
-                <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drew Blood Screenshot" />
-                <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drew Blood Screenshot" />
-                <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drew Blood Screenshot" /> 
+                <img class="pc-screenshot" src="img/projects/dynamic.png" alt="Dynamic Battles Screenshot" />
             </div>`, "#1ca1e2"),
 
 ];
