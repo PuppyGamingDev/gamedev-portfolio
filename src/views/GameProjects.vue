@@ -9,7 +9,7 @@
     <ProjectsList v-bind:projects="projects" />
 
     <div style="margin-top: 20px;">
-      There is more to see on <a target="_blank" href="https://someexternalwebsite.com">some external website</a>
+      Contact me for opportunities at <a target="_blank" href="mailto:puppygamingdev@gmail.com">puppygamingdev@gmail.com</a>
     </div>
   </div>
 </template>
