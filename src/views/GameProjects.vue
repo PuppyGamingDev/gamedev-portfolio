@@ -1,9 +1,9 @@
 <template>
   <div>
-    <h1>Stuff</h1>
+    <h1>My Projects</h1>
 
     <div style="margin-bottom: 30px;">
-      The following are some stuff I've made or heavily contributed to.
+      The following are projects that I have developed or created.
     </div>
 
     <ProjectsList v-bind:projects="projects" />
