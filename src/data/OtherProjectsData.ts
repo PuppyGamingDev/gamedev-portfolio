@@ -20,7 +20,7 @@ export default [
         </div>
 
         <div class="paragraph center">
-          <img class="pc-screenshot" src="img/projects/BitFreaks.png" alt="BitFreakz Image" />
+          <img class="pc-screenshot" src="img/projects/shootout.png" alt="BitFreakz Image" />
         </div>
     `, "#c10606", false, true),
     new ProjectData("project-7", "Drew Blood", "img/projects/project-7-icon.png", `
