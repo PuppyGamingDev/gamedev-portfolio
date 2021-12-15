@@ -28,12 +28,10 @@
     <div class="full-content">
       <h2>Work experience</h2>
 
-      <h3>Operation Classified - Delta Force</h3>
-      <h4>2018-2019</h4>
+      <h3>Warehouse Operative - Next Day Courier</h3>
+      <h4>2006 - 2013</h4>
 
-      <div>It's classified so I can't speak about it.</div>
-
-      <div class="tech-stack">Firearms, knives, grenades, Hummer vehicle, parachute,...</div>
+      <div class="tech-stack">Working in a small team to scan, separate and organise packages ready to be loaded onto delivery vehicles.</div>
 
       <h3>Operation Classified - Delta Force</h3>
       <h4>2015-2017</h4>
