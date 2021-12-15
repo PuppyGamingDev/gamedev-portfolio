@@ -61,7 +61,7 @@ import Vue from "vue";
 export default Vue.extend({
   name: "Resume",
   components: {
-    SkillRate,
+    
   },
 });
 </script>
