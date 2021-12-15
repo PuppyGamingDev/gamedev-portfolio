@@ -26,26 +26,22 @@
     <div style="clear:both"></div>
 
     <div class="full-content">
-      <h2>Work experience</h2>
+      <h2>Working History</h2>
 
       <h3>Warehouse Operative - Next Day Courier</h3>
       <h4>2006 - 2013</h4>
 
       <div class="tech-stack">Working in a small team to scan, separate and organise packages ready to be loaded onto delivery vehicles.</div>
 
-      <h3>Operation Classified - Delta Force</h3>
-      <h4>2015-2017</h4>
+      <h3>Warehouse Operative - Food Distribution</h3>
+      <h4>2013 - 2015</h4>
 
-      <div>It's classified so I can't speak about it.</div>
+      <div class="tech-stack">Working alone or in a team to pick food orders in a cooled or freezer environment and load delivery vehicles to a schedule.</div>
 
-      <div class="tech-stack">Even more Firearms, knives, grenades, Hummer vehicle, parachute,...</div>
+      <h3>Shift Technician - Energy Recovery Facility</h3>
+      <h4>2015 - Present</h4>
 
-      <h3>Operation Classified - Delta Force</h3>
-      <h4>2012-2015</h4>
-
-      <div>It's classified so I can't speak about it.</div>
-
-      <div class="tech-stack">Firearms, knives, grenades, Hummer vehicle, parachute,...</div>
+      <div class="tech-stack">Monitoring and controlling the combustion process of waste that is then used to drive a steam turbine.</div>
 
 
     </div>
