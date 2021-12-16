@@ -10,7 +10,7 @@
 
       <div style="margin-top: 20px;">I've worked on  <router-link to="/game-projects">some of my own games</router-link> and assisted on <router-link to="/other-projects">other people's projects</router-link></div>
 
-      <div style="margin-top: 40px;">If you are looking for help with the assets i've using in my projects or videos, you can reach me at <a href="mailto:puppygamingdev@gmail.com">puppygamingdev@gmail.com</a> or <router-link to="/contact">through here</router-link>.</div>
+      <div style="margin-top: 40px;">If you are looking for help with the assets i've been using in my projects or videos, you can reach me at <a href="mailto:puppygamingdev@gmail.com">puppygamingdev@gmail.com</a> or <router-link to="/contact">through here</router-link>.</div>
     </div>
 
     <div class="photo">
