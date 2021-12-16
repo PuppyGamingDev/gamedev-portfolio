@@ -18,20 +18,9 @@
     </div>
 
     <div style="clear:both"></div>
-    <div>
-      <YouTubeWidget apiKey="AIzaSyDMVnqr42v-XyCSW-EpZGx1f20FSQsJHD4" channelId="UCqUH4soOKdWsTBx6O81ERBg"></YouTubeWidget>
-    </div>
   </div>
 </template>
-<script>
-import YouTubeWidget from "./components/YouTubeWidget";
 
-export default {
-  components: {
-    YouTubeWidget
-  }
-}
-</script>
 <style scoped>
 .paragraph {
   max-width: 700px;
