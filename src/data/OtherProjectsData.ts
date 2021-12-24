@@ -1,16 +1,16 @@
 import ProjectData from '@/data/ProjectData.ts'
 
 export default [
-    new ProjectData("project-6", "BitFreakz Shootout", "img/projects/shootout.png", `
+    new ProjectData("project-6", "BitFreaks Shootout", "img/projects/shootout.png", `
     <div class="paragraph">
-      <strong>BitFreakz</strong> are a pixelated, bizarro duplicate of our universe living on Solana blockchain. They are a digital pieces of art, carefully put together pixel by pixel – that you can collect, trade and enjoy.
+      <strong>BitFreaks</strong> are a pixelated, bizarro duplicate of our universe living on Solana blockchain. They are a digital pieces of art, carefully put together pixel by pixel – that you can collect, trade and enjoy.
 
       90% of the auctions proceeds are deposited in the BitFreaks Treasury, where they are governed by BitFreaks holders, and are acting as a form of venture capital fund for the community.
-      <br/>Visit them <a href="https://bitfreakz.io" target="blank">HERE</a>.
+      <br/>Visit them <a href="https://bitfreaks.io" target="blank">HERE</a>.
     </div>
 
           <div class="paragraph">
-            Features implimented into BitFreakz Shootout:
+            Features implimented into BitFreaks Shootout:
             <ul>
             <li>Simple Spectator Mode</li>
             <li>Team system with team spawns</li>
@@ -20,7 +20,7 @@ export default [
         </div>
 
         <div class="paragraph center">
-          <img class="pc-screenshot" src="img/projects/shootout.png" alt="BitFreakz Image" />
+          <img class="pc-screenshot" src="img/projects/shootout.png" alt="BitFreaks Image" />
         </div>
     `, "#c10606", false, true),
     new ProjectData("project-7", "Dynamic Battles", "img/projects/dynamic.png", `
