@@ -1,7 +1,11 @@
-import ProjectData from '@/data/ProjectData.ts'
+import ProjectData from "@/data/ProjectData.ts";
 
 export default [
-    new ProjectData("project-6", "BitFreaks Shootout", "img/projects/shootout.png", `
+  new ProjectData(
+    "project-6",
+    "BitFreaks Shootout",
+    "img/projects/shootout.png",
+    `
     <div class="paragraph">
       <strong>BitFreaks</strong> are a pixelated, bizarro duplicate of our universe living on Solana blockchain. They are a digital pieces of art, carefully put together pixel by pixel – that you can collect, trade and enjoy.
 
@@ -12,6 +16,7 @@ export default [
           <div class="paragraph">
             Features implimented into BitFreaks Shootout:
             <ul>
+            <li>Phantom Wallet NFT link to characters</li>
             <li>Simple Spectator Mode</li>
             <li>Team system with team spawns</li>
             <li>Match restarter</li>
@@ -22,8 +27,16 @@ export default [
         <div class="paragraph center">
           <img class="pc-screenshot" src="img/projects/shootout.png" alt="BitFreaks Image" />
         </div>
-    `, "#c10606", false, true),
-    new ProjectData("project-7", "Dynamic Battles", "img/projects/dynamic.png", `
+    `,
+    "#c10606",
+    false,
+    true
+  ),
+  new ProjectData(
+    "project-7",
+    "Dynamic Battles",
+    "img/projects/dynamic.png",
+    `
     <div class="paragraph">
                 <strong>Dynamic Battles</strong> was a team based multiplayer FPS created for the 'Dynamic' content creators community for the use of internal collaboration and fun. This was created on top of MFPS 2.0 from the Unity Asset Store.
             </div>
@@ -46,6 +59,7 @@ export default [
 
             <div class="paragraph center">
                 <img class="pc-screenshot" src="img/projects/dynamic.png" alt="Dynamic Battles Screenshot" />
-            </div>`, "#1ca1e2"),
-
+            </div>`,
+    "#1ca1e2"
+  ),
 ];
