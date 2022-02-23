@@ -7,7 +7,7 @@ export default [
     "img/Puppy.png",
     `
     <div class="paragraph">
-     <strong>PuppyBot</strong> is my first Discord Bot that I have created. I made it initially for personal use after releasing an asset on the Unity Asset store to verify users in my own Discord.
+     <strong>PuppyBot</strong> is my first Discord Bot that I have created. I made it initially for personal use after releasing an asset on the Unity Asset store to verify users in my own Discord. The bot is made using Node.js
     </div>
     <div class="paragraph">
         Workflow :
