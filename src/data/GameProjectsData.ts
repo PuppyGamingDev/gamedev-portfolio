@@ -20,6 +20,11 @@ export default [
         <li>It will also store a list of which users uses which invoice number for your future reference</li>
         </ul>
     </div>
+        <div class="paragraph">
+    <div class="notice">
+        You can purchase this bot's source code from PuppyGaming.co.uk
+    </div>
+    </div>
     `,
     "#23bd69",
     true
@@ -38,7 +43,7 @@ export default [
 
     <div class="paragraph">
     <div class="notice">
-        This asset is still awaiting review from the Unity Asset Store.
+        You can puchase this asset on the Unity Asset Store https://assetstore.unity.com/packages/tools/integration/simple-crypto-webgl-templates-211210 or buy it direct from PuppyGaming.co.uk
     </div>
     </div>
 
